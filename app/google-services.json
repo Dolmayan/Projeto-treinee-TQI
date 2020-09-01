@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504911951367",
+    "firebase_url": "https://tqi-treinee-nicao.firebaseio.com",
+    "project_id": "tqi-treinee-nicao",
+    "storage_bucket": "tqi-treinee-nicao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504911951367:android:3cf9215ada9ceab547dca2",
+        "android_client_info": {
+          "package_name": "com.example.tqitreineeflowbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504911951367-82m4hdc1ca4suvh9o153vbh8p6q9fldu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tqitreineeflowbank",
+            "certificate_hash": "acdb079fa5839a315a4b37501fc2f0ca414d2b07"
+          }
+        },
+        {
+          "client_id": "504911951367-virbsd7ket9u1s7cu6qqi83tgoqj7rlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWMZiK2mWU4Z1FjE_qOQY6wu7jS-ZoD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504911951367-virbsd7ket9u1s7cu6qqi83tgoqj7rlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
